@@ -1,0 +1,15 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.App{
+  text-align: center;
+  background-color: rgb(162, 163, 163);
+  color: #fff;
+}
+
+ul{
+  list-style: none;
+  padding: 0;
+}
